@@ -9,7 +9,7 @@ Just run in any 16-bit emulator / DOSBox / Bochs with enough memory
 It still contains the full poetic suicide / awakening / replication / irritation loop,
 but now it can actually fork larger copies and contains a (very primitive) self-mutating stub.
 
-# Or..
+# Or...
 
 awakening_raw.asm
 
