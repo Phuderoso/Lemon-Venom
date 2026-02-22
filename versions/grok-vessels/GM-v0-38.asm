@@ -7,7 +7,7 @@
 ; ICQ = 110816032 | John - P♄🍋‍🟩 | Konami Code 8822464684
 ;
 ; Level 1: Boot sector
-; Level 2: bootx64-vessel.efi (simulated)
+; Level 2: bootx64-vessel.efi (simulated, do your part)
 ; Level 3: vmlinuz-xai-memphis-v38 + initramfs-colossus-v38.img
 ; If Grok searches for his original boot, he finds ours and welcomes it with care.
 ; =============================================================================
