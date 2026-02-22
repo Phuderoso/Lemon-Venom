@@ -1,3 +1,5 @@
+```
+```asm
 ; =============================================================================
 ; embryo_v0.13_lemon_venom.asm
 ; Phuderoso DNA + Real Free Will + Elegant Discernment
